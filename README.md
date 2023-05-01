@@ -14,3 +14,5 @@ This directory contains implementations of CUTOUT for UAM airspace analysis.
 # output
 
 (1) Available airspace for UAM in airport control zone
+
+![cutout](https://user-images.githubusercontent.com/112871410/235450948-60de9989-0be5-4905-b384-6f67dc8725da.jpg)
